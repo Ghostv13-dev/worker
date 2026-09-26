@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "worker",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "my-personal-db",
+			"database_id": "77e8139c-1d51-490f-8a58-2b56c2e9b90f"
+		}
+	]
+}
